@@ -1,0 +1,21 @@
+{
+  "name": "Graphic",
+  "keywords": "arduino, plot",
+  "description": "Real Time Graphics Generator",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "authors": [{
+    "name": "Jorge Narvaez",
+    "email": "jormelcn@gmail.com",
+    "mantainer" : true
+  }],
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "atmelavr",
+    "teensy"
+  ]
+}
